@@ -1,0 +1,7 @@
+com\edost\urlshortner\DynamoConfig.class
+com\edost\urlshortner\test.class
+com\edost\urlshortner\UrlModel.class
+com\edost\urlshortner\GetRequestHandler.class
+com\edost\urlshortner\ErrorResponse.class
+com\edost\urlshortner\PostRequestHandler.class
+com\edost\urlshortner\UrlServiceImplimentation.class
